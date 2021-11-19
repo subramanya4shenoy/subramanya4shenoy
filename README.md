@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack project ideas
 - 🌱 I’m currently learning node
 - 💞️ I’m looking to collaborate on any fullstack web applications
-- 📫 How to reach me 
+- 📫 How to reach me subramanya4shenoy@gmail.com
 
 <!---
 subramanya4shenoy/subramanya4shenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
