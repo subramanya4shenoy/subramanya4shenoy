@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @subu
 - 👀 I’m interested in Fullstack project ideas
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning : 
+      ~~node~~ ✔️
+      Docker & K8 
 - 💞️ I’m looking to collaborate on any fullstack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
