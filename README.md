@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subu
 - 👀 I’m interested in Fullstack project ideas
 - 🌱 I’m currently learning : 
-      ~~node~~ ✔️, micro frontend
+      ~~node~~ ✔️, ~~micro frontend~~ ✔️, NX
 - 💞️ I’m looking to collaborate on any fullstack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
