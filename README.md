@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @subu
 - 👀 I’m interested in Fullstack project ideas
 - 🌱 I’m currently learning : 
-      ~~node~~ ✔️, 
-      ~~micro frontend~~ ✔️, 
-      ~~NX~~ ✔️, 
-      ~~NestJS and micro services~~ ✔️, 
-      ~~diy neural network~~ ✔️
-      AWS
+     - ~~node~~ ✔️, 
+     - ~~micro frontend~~ ✔️, 
+     - ~~NX~~ ✔️, 
+     - ~~NestJS and micro services~~ ✔️, 
+     - ~~diy neural network~~ ✔️
+     - AWS
 - 💞️ I’m looking to collaborate on any fullstack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
