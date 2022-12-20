@@ -6,7 +6,8 @@
      - ~~NX~~ ✔️, 
      - ~~NestJS and micro services~~ ✔️, 
      - ~~diy neural network~~ ✔️
-     - AWS
+     - ~~AWS~~ ✔️
+     - Jenkins
 - 💞️ I’m looking to collaborate on any fullstack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
