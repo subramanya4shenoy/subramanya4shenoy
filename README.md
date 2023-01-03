@@ -8,6 +8,7 @@
      - ~~diy neural network~~ ✔️
      - ~~AWS~~ ✔️
      - ~~Jenkins~~ ✔️
+     - Python
 - 💞️ I’m looking to collaborate on any fullstack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
