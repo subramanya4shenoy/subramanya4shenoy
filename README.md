@@ -8,8 +8,9 @@
      - ~~diy neural network~~ ✔️
      - ~~AWS~~ ✔️
      - ~~Jenkins~~ ✔️
-     - Python
-- 💞️ I’m looking to collaborate on any fullstack web applications
+     - ~~Python~~ ✔️
+     - Machine Learning
+- 💞️ I’m looking to collaborate on any full-stack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
 <!---
