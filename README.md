@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Subu"><img src="https://api.daily.dev/devcards/1eac207258884be28e5b08a1754c4aed.png?r=5iq" width="400" alt="subramanya shenoy's Dev Card"/></a>
+
 - 👋 Hi, I’m @subu
 - 👀 I’m interested in Fullstack project ideas
 - 🌱 I’m currently learning : 
