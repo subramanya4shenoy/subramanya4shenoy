@@ -23,6 +23,10 @@
      - ~~Jenkins~~ ✔️
      - ~~Python~~ ✔️
      - Machine Learning
+- 🌱 I’m currently Building : 
+     - brewtest.co ✔️,
+     - eeezeee-wow ✔️,
+     - Gratitude journal (Building) 
 - 💞️ I’m looking to collaborate on any full-stack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
