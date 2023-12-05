@@ -22,7 +22,8 @@
      - ~~AWS~~ ✔️
      - ~~Jenkins~~ ✔️
      - ~~Python~~ ✔️
-     - Machine Learning
+     - ~~Machine Learning~~ ✔️
+     - Rust 
 - 🌱 I’m currently Building : 
      - brewtest.co ✔️,
      - eeezeee-wow ✔️,
