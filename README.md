@@ -31,6 +31,9 @@
 - 💞️ I’m looking to collaborate on any full-stack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
+
+[![](https://visitcount.itsvg.in/api?id=subramanya4shenoy&label=Profile%20Views&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
+
 <!---
 subramanya4shenoy/subramanya4shenoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
