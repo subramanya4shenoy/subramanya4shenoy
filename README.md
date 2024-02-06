@@ -27,7 +27,11 @@
 - 🌱 I’m currently Building : 
      - brewtest.co ✔️,
      - eeezeee-wow ✔️,
-     - Gratitude journal (Building) 
+     - Gratitude journal (Building)
+     - GPT's
+       - Image to code GPT - https://chat.openai.com/g/g-4Sves4vvr-image-to-code-gpt 
+       - AWS Guru GPT - https://chat.openai.com/g/g-B5nNP7tuy-aws-guru   
+       - Unit test Generator GPT - https://chat.openai.com/g/g-fAy3f4L1n-unit-test-generator-for-code-brewtest-co
 - 💞️ I’m looking to collaborate on any full-stack web applications
 - 📫 How to reach me subramanya4shenoy@gmail.com
 
