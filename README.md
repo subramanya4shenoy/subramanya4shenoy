@@ -23,7 +23,8 @@
      - ~~Jenkins~~ ✔️
      - ~~Python~~ ✔️
      - ~~Machine Learning~~ ✔️
-     - Rust 
+     - ~~Rust~~ ✔️
+     - Rust with Web assembly
 - 🌱 I’m currently Building : 
      - brewtest.co ✔️,
      - eeezeee-wow ✔️,
@@ -44,4 +45,3 @@ subramanya4shenoy/subramanya4shenoy is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-holiday push yo maintain the streak 2
