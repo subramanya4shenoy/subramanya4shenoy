@@ -19,7 +19,7 @@
 - 🌱 I’m currently Building : 
      - brewtest.co ✔️,
      - eeezeee-wow ✔️,
-     - Gratitude journal (Building)
+     - BiteTube (Building)
      - GPT's
        - Image to code GPT - https://chat.openai.com/g/g-4Sves4vvr-image-to-code-gpt 
        - AWS Guru GPT - https://chat.openai.com/g/g-B5nNP7tuy-aws-guru   
