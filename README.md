@@ -13,6 +13,8 @@
      - ~~Python~~ ✔️
      - ~~Machine Learning~~ ✔️
      - ~~Rust~~ ✔️
+     - ~~React Native~~ ✔️
+     - ~~Server less with Supabase~~ ✔️
      - Rust with Web assembly
 - 🌱 I’m currently Building : 
      - brewtest.co ✔️,
